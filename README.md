@@ -6,7 +6,7 @@
 ✔️ &nbsp;궁금하신점이 더 있으시다면 <a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06">제 포트폴리오</a>로 와주세요.
 
 <details>
-    <summary style="font-size:2em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
+    <summary style="font-size:3em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
     <ul style="list-style:none">
         <li>
             <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java" />
