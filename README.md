@@ -3,12 +3,12 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;풀스택 개발자 정쿠입니다. ☺️
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;백엔드 개발자 박지호입니다. ☺️
 
 ✔️ &nbsp;안녕하세요 호기심이 많은 개발자 박지호입니다.\
 ✔️ &nbsp;저는 무엇이든 새롭게 배우는 것을 좋아합니다!\
 ✔️ &nbsp;혼자서 개발도 좋지만 다같이 협동하여 만드는 것도 좋아합니다!\
-✔️ &nbsp;포트폴리오<br><a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06"></a>
+✔️ &nbsp;<a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06">포트폴리오</a>
 
 <details>
     <summary style="font-size:2em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
