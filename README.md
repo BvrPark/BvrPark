@@ -1,9 +1,9 @@
 ## &nbsp;백엔드 개발자 박지호입니다. ☺️
 
-✔️ &nbsp;안녕하세요 호기심이 많은 개발자 박지호입니다.\
-✔️ &nbsp;저는 무엇이든 새롭게 배우는 것을 좋아합니다!\
-✔️ &nbsp;혼자서 하는 개발도 좋지만 다같이 협동하여 만드는 것도 좋아합니다!\
-✔️ &nbsp;<a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06">포트폴리오</a>
+✔️ &nbsp;새로운 기술을 배우는 것을 좋아합니다.\
+✔️ &nbsp;명확하고 이해하기 쉬운 코드를 만들기 위해 노력합니다.\
+✔️ &nbsp;기술들을 공부하고 같이 성장하는 삶을 지향합니다.\
+✔️ &nbsp;궁금하신점이 더 있으시다면 <a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06">제 포트폴리오</a>로 와주세요.
 
 <details>
     <summary style="font-size:2em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
