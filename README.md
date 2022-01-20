@@ -1,4 +1,7 @@
+[![Blog](https://img.shields.io/badge/Blog-crupy.tistory.com-green.svg)](https://crupy.tistory.com/category)&nbsp; 
+[![TIL](https://img.shields.io/badge/TIL-Today_I_Learned-green.svg)](https://github.com/crupy/TIL) 
 ## &nbsp;안녕하세요. 백엔드 개발자 박지호입니다. ☺️
+
 
 ✔️ &nbsp;새로운 기술을 배우고 활용하는 것을 좋아합니다.\
 ✔️ &nbsp;명확하고 이해하기 쉬운 코드를 만들기 위해 노력합니다.\
