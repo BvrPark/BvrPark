@@ -10,7 +10,7 @@
 ✔️ &nbsp;궁금하신점이 더 있으시다면 <a href="https://tricky-rudbeckia-b67.notion.site/c26f0568c8e241829b689070e606ec06">제 포트폴리오</a>로 와주세요.
 
 ### 🛠 &nbsp;Technical Skills
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJdk)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
