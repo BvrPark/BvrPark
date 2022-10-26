@@ -1,16 +1,12 @@
-[![Blog](https://img.shields.io/badge/Blog-crupy.tistory.com-green.svg)](https://crupy.tistory.com)&nbsp; 
-[![TIL](https://img.shields.io/badge/TIL-Today_I_Learned-green.svg)](https://github.com/crupy/TIL) 
-## &nbsp;안녕하세요. 백엔드 개발자 박지호입니다. ☺️
+## &nbsp;백엔드 개발자 박지호입니다. ☺️
 
-
-✔️ &nbsp;새로운 기술을 배우고 활용하는 것을 좋아합니다.\
-✔️ &nbsp;명확하고 이해하기 쉬운 코드를 만들기 위해 노력합니다.\
+✔️ &nbsp;새로운 기술을 배우는 것을 좋아합니다.\
+✔️ &nbsp;코드를 분석하고 이해하는 과정을 즐깁니다.\
 ✔️ &nbsp;기술들을 공부하고 같이 성장하는 삶을 지향합니다.\
-✔️ &nbsp;알고리즘을 푸는 것이 재밌고 더 좋은 방법을 찾는 것을 즐깁니다.\
-✔️ &nbsp;궁금하신점이 더 있으시다면 <a href="https://tricky-rudbeckia-b67.notion.site/c26f0568c8e241829b689070e606ec06">제 포트폴리오</a>로 와주세요.
+✔️ &nbsp;궁금하신점이 더 있으시다면 <a href="https://www.notion.so/c26f0568c8e241829b689070e606ec06">제 포트폴리오</a>로 와주세요.
 
 ### 🛠 &nbsp;Technical Skills
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJdk)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
