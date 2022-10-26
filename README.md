@@ -31,4 +31,4 @@
 
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:wlghsms95@gmail.com"><img src="https://img.shields.io/badge/-wlghsms95@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:devcrupy@gmail.com"><img src="https://img.shields.io/badge/-devcrupy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
