@@ -1,3 +1,6 @@
+[![Blog](https://img.shields.io/badge/Blog-crupy.tistory.com-green.svg)](https://crupy.tistory.com)&nbsp; 
+[![TIL](https://img.shields.io/badge/TIL-Today_I_Learned-green.svg)](https://github.com/crupy/TIL)
+
 ## &nbsp;백엔드 개발자 박지호입니다. ☺️
 
 ✔️ &nbsp;새로운 기술을 배우는 것을 좋아합니다.\
