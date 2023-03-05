@@ -1,6 +1,5 @@
 [![Blog](https://img.shields.io/badge/Blog-crupy.tistory.com-green.svg)](https://crupy.tistory.com)&nbsp; 
 [![TIL](https://img.shields.io/badge/TIL-Today_I_Learned-green.svg)](https://github.com/crupy/TIL)&nbsp;
-[![Notion](https://img.shields.io/badge/회고록-Memoir-green.svg)](https://tricky-rudbeckia-b67.notion.site/6097fcfb966b48868c68bdc773de8498)
 
 ## &nbsp;백엔드 개발자 박지호입니다. ☺️
 
