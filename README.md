@@ -2,7 +2,7 @@
 [![PJT](https://img.shields.io/badge/PJT-Project_Repo-blue.svg)](https://github.com/BvrPark/PJT)&nbsp;
 [![TIL](https://img.shields.io/badge/TIL-Today_I_Learned-green.svg)](https://github.com/BvrPark/TIL)&nbsp;
 
-## &nbsp;백엔드 개발자 박지호입니다. ☺️
+## &nbsp;비버 개발자 박지호입니다. ☺️
 
 ✔️ &nbsp;새로운 기술을 배우는 것을 좋아합니다.\
 ✔️ &nbsp;코드를 분석하고 이해하는 과정을 즐깁니다.\
